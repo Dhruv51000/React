@@ -1,0 +1,47 @@
+.MyForm{
+    position: absolute;
+    background-color:black;
+    width: 100%;;
+    height:100%;
+    color:white;
+    font-size:20px;
+   
+}
+.a{
+    position: absolute;
+    top:20px;
+    right:50px;
+    background-color:green;
+    width:500px;
+    height:150px;
+
+}
+input[type=text] {
+    position:absolute;
+    left:100px;
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px ;
+    background-color: black;
+    color: white;
+    font-size:16px;
+    text-decoration: none;
+    outline-color: black;
+  }
+  *:focus {
+    outline: none;
+}
+  .f{
+    position:relative;
+    left:10px;
+    background-color:black;
+    width: 100%;;
+    height:100%;
+    color:white;
+    font-size:20px;
+
+  }
+.g{
+    position: relative;
+    top:20px;
+}
